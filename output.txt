@@ -1,0 +1,2 @@
+The Largest value was 30000.00
+The Smallest value was 0.50
